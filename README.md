@@ -1,6 +1,6 @@
 # Games103_hw_show
 show Games103 hw pictures
- - 鉴于老师不让发源码，而且等改完所以老师会发参考答案，这里只发效果
+ - 鉴于老师不让发源码，而且等改完所有作业老师会发参考答案，这里只发效果
  - 作业一：刚体碰撞旋转分别是impulse 和 shape matching 方法
  
 ![hw1](./hw1/Rigid_body.gif)
